@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo 主题 MemE</title>
+        <title>sscttqq&#39;s blog</title>
         <link>https://sscttsqq.github.io/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.68.1 https://gohugo.io/</generator>
@@ -15,15 +15,15 @@
             <language>zh-CN</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>sscttqq@gmail.com (sscttqq)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>sscttqq@gmail.com (sscttqq)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 24 Mar 2020 00:26:07 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2020 00:31:48 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://sscttsqq.github.io/rss.xml" />
         
@@ -34,7 +34,7 @@
                 <guid isPermaLink="true">https://sscttsqq.github.io/posts/test/</guid>
                 <pubDate>Tue, 24 Mar 2020 00:25:27 +0800</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>sscttqq@gmail.com (sscttqq)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -59,7 +59,7 @@
                 <guid isPermaLink="true">https://sscttsqq.github.io/posts/hello-world/</guid>
                 <pubDate>Mon, 23 Mar 2020 23:15:28 +0800</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>sscttqq@gmail.com (sscttqq)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
