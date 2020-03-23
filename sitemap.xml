@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sscttsqq.github.io/categories/</loc>
+    <loc>https://sscttsqq.github.io/about/</loc>
+    <lastmod>2020-03-24T00:17:48+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://sscttsqq.github.io/</loc>
+    <lastmod>2020-03-24T00:17:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sscttsqq.github.io/posts/hello-world/</loc>
+    <lastmod>2020-03-24T00:17:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sscttsqq.github.io/posts/</loc>
+    <lastmod>2020-03-24T00:17:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sscttsqq.github.io/categories/</loc>
   </url>
   
   <url>

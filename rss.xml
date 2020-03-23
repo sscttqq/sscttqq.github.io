@@ -23,10 +23,34 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 24 Mar 2020 00:15:16 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2020 00:17:55 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://sscttsqq.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://sscttsqq.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">https://sscttsqq.github.io/posts/hello-world/</guid>
+                <pubDate>Mon, 23 Mar 2020 23:15:28 +0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description><![CDATA[]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
